@@ -3,7 +3,8 @@
 Hello, I am Divya. This is the first file in Git Repository...
 
 ## Website content
-1)index.hrnl
+Ading website page
+1)index.html
 
 ## GIT Below
 
