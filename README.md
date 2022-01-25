@@ -1,0 +1,3 @@
+# Example Git Repository
+
+Hello, I am Divya. This is the first file in Git Repository...
